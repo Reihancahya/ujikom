@@ -45,6 +45,11 @@
               <a class="nav-link text-white" href="#">Galeri</a>
             </li>
           </nuxt-link>
+          <nuxt-link to="/Biodata">
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#">Biodata</a>
+            </li>
+          </nuxt-link>
         </ul>
       </div>
     </div>
